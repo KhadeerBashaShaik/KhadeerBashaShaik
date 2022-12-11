@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHAIK KHADEER BASHA</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" align="right">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeerbashashaik&label=Profile%20views&color=0e75b6&style=flat" alt="khadeerbashashaik" /> </p>
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="400" align="right">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadeerbashashaik" alt="khadeerbashashaik" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/shaik_khadeer_" target="blank"><img src="https://img.shields.io/twitter/follow/shaik_khadeer_?logo=twitter&style=for-the-badge" alt="shaik_khadeer_" /></a> </p>
 
@@ -22,6 +20,11 @@
 - 💬 Ask me about **Django Framework and Flask Framework**
 
 - 📫 How to reach me **khadeer123ab@gmail.com**
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadeerbashashaik" alt="khadeerbashashaik" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
